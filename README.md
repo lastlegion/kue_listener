@@ -17,7 +17,7 @@ var kuelistener = new KueListener({"host": "172.18.0.6"}, function(message){
 
 ## Messages
 
-Returns the following messages, with events: `enqueue`, `start` and `complete` 
+Returns the following example messages, with events: `enqueue`, `start` and `complete` 
 
 * `{"id":198,"event":"enqueue","args":["enqueue","analysisJob"]}`
 * `{"id":198,"event":"start","args":["start","analysisJob",null]}`
