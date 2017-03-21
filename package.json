@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ganesh Iyer",
   "license": "ISC",
   "dependencies": {
     "ioredis": "^2.5.0",
